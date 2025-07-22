@@ -1,9 +1,10 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hello+user%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F;Welcome+to+my+GitHub+profile!;My+name+is+Chaitnya+Dwivedi;I+am+a+Full+Stack+Java+Developer&font=Consolas&color=FFDA00&size=22&center=true&width=800&height=50&duration=2900&pause=1000" alt="README Typing">
 </p>
-<img align="right" height="480" width="480" alt="" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ChaitnyaDwivedi&label=Profile%20views&color=0e75b6&style=flat" alt="RahulChoudhary05" /> </p>
+<img align="right" height="450" width="450" alt="" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ChaitnyaDwivedi&label=Profile%20views&color=0e75b6&style=flat" alt="ChaitnyaDwivedi" /> </p>
 
 ### Talking about Personal Stuff:
 - 💬 &nbsp; Ask me about Spring Boot, React.js.
@@ -15,7 +16,7 @@
 - 📰 &nbsp; Reading, writing & watching Tech Stuff whenever possible.
 
 ## 🌐 Connect with me:
-<p align="center"> <a href="https://www.linkedin.com/in/chaitnya-dhar-dwivedi-65333a255/"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" /> </a> <a href="https://instagram.com/_chaitnya.dwivedi_/"> <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge" alt="Instagram" /> </a> </p> 
+<p align="center"> <a href="https://www.linkedin.com/in/chaitnya-dhar-dwivedi-65333a255/"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" /> </a> </p> 
 
 
 ## 💻 Languages and Tools:
@@ -25,7 +26,7 @@
 
 
 
-[![ChaitnyaDwivedi Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ChaitnyaDwivedi&bg_color=%FFDA00&color=ffffff&line=FFDA00&point=403d3d&area=true&hide_border=true)](https://github.com/ChaitnyaDwivedi/github-readme-activity-graph)
+[![Chaitnya Dwivedi Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ChaitnyaDwivedi&bg_color=%FFDA00&color=ffffff&line=FFDA00&point=403d3d&area=true&hide_border=true)](https://github.com/ChaitnyaDwivedi/github-readme-activity-graph)
 
 # 📊 GitHub Stats:
 <div align="center">
